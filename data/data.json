@@ -1,0 +1,72 @@
+{
+  "professor": {
+    "nome": "Professor Luiz Henrique",
+    "titulo": "Estrategista de Produção Digital, Autor e Educador Matemático",
+    "localizacao": "Governador Valadares, MG",
+    "bio": "Com uma trajetória fundamentada no autodidatismo e na excelência analítica, atuo na intersecção entre a educação exata, o desenvolvimento humano e a estratégia digital. Através do sistema NIU (Núcleo de Inteligência Unificada), sistematizo a produção de conhecimento de alto impacto. Utilizando o modelo padrão como base teórica e o Método Zag para focar nos reais decisores do processo educacional, capacito famílias e projeto adolescentes para a excelência acadêmica e pessoal.",
+    "foto": "./assets/img/hero-profile.jpg"
+  },
+  "trustBar": [
+    "Autoridade em Metodologias de Ensino",
+    "Criador do Sistema NIU",
+    "Especialista no Método Zag",
+    "Desenvolvimento de Liderança Jovem"
+  ],
+  "timeline": [
+    {
+      "ano": "2021",
+      "marco": "Início da Atuação como Educador Matemático",
+      "descricao": "Estabelecimento das bases de ensino focadas em raciocínio lógico e preparação de alto rendimento."
+    },
+    {
+      "ano": "2024",
+      "marco": "Sistematização do Método Zag",
+      "descricao": "Consolidação da estratégia focada nos pais como decisores principais na jornada de sucesso dos filhos."
+    },
+    {
+      "ano": "2026",
+      "marco": "Publicações Literárias e Estratégicas",
+      "descricao": "Finalização de obras de peso, introduzindo novas metodologias de estudo contextual e desenvolvimento juvenil."
+    }
+  ],
+  "livros": [
+    {
+      "id": "livro1",
+      "titulo": "Ajude seu filho a passar no colégio militar",
+      "capa": "./assets/img/capa-colegio-militar.jpg",
+      "sinopse": "Um guia definitivo e estratégico para pais que buscam a aprovação de seus filhos nas instituições mais rigorosas do país. O livro traduz o Método Zag em passos práticos para os responsáveis.",
+      "link": "#"
+    },
+    {
+      "id": "livro2",
+      "titulo": "A Bíblia sem Versículos",
+      "capa": "./assets/img/capa-biblia.jpg",
+      "sinopse": "Uma abordagem inovadora focada em métodos de estudo contextual. A obra convida o leitor a uma compreensão estrutural e profunda do texto, removendo fragmentações.",
+      "link": "#"
+    },
+    {
+      "id": "livro3",
+      "titulo": "Metodologia: Terceiro Espaço",
+      "capa": "./assets/img/capa-terceiro-espaco.jpg",
+      "sinopse": "O desenvolvimento sistemático de adolescentes de 9 a 17 anos. Focado em gestão de tempo, pensamento crítico e preparação para os desafios do mundo moderno.",
+      "link": "#"
+    }
+  ],
+  "servicos": [
+    {
+      "icone": "compass",
+      "nome": "Consultoria Educacional para Pais",
+      "descricao": "Direcionamento estratégico focado nos responsáveis (Método Zag) para otimizar o ambiente de estudos e a disciplina dos filhos."
+    },
+    {
+      "icone": "book",
+      "nome": "Mentoria em Produção Digital",
+      "descricao": "Aceleração na criação de infoprodutos e obras literárias através do sistema de estruturação NIU."
+    },
+    {
+      "icone": "users",
+      "nome": "Programa Terceiro Espaço",
+      "descricao": "Treinamento especializado no desenvolvimento de soft skills e hard skills para adolescentes, preparando a base para o modelo padrão de excelência."
+    }
+  ]
+}
